@@ -12,3 +12,7 @@
 ## Demo: New Prototype – Authentication  
 *For better video quality, please watch in fullscreen mode.* 
 <video src="assets/Storch_Report _Authentifizierung.mp4" width="600" height="400" controls></video>
+
+## Demo: New Prototype – FHIR-Integration and chronological Workflow  
+*For better video quality, please watch in fullscreen mode.* 
+<video src="assets/fhir-integration.mp4" width="600" height="400" controls></video>
